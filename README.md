@@ -1,11 +1,10 @@
-## Hi there 👋
+## Lifelong learner, project addict 💻
+
+#### 🌳 Confident in: ![Static Badge](https://img.shields.io/badge/Powershell-%230062AD)
+#### 🌱 Currently learning: ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?logo=.net&labelColor=gray) ![Static Badge](https://img.shields.io/badge/Azure-%230062AD) ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonwebservices&labelColor=gray)
 
 <!--
-**x64legend/x64legend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
