@@ -1,4 +1,5 @@
 ## Lifelong learner, project addict 💻
+#### ![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=%23ffffff&labelColor=gray&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsydniembarnes) ![Static Badge](https://img.shields.io/badge/Blog-purple?style=flat&logo=Wix&labelColor=gray&color=purple&link=https%3A%2F%2Fcmdknight.wixsite.com%2Fcmdknight%2Fblog)
 
 #### 🌳 Confident in: ![Static Badge](https://img.shields.io/badge/Powershell-%230062AD)
 #### 🌱 Currently learning: ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?logo=.net&labelColor=gray) ![Static Badge](https://img.shields.io/badge/Azure-%230062AD) ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonwebservices&labelColor=gray)
