@@ -4,6 +4,9 @@
 #### 🌳 Confident in: ![Static Badge](https://img.shields.io/badge/Powershell-%230062AD)
 #### 🌱 Currently learning: ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?logo=.net&labelColor=gray) ![Static Badge](https://img.shields.io/badge/Azure-%230062AD) ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonwebservices&labelColor=gray)
 
+#### 🧙‍♂️ Certifications: ![Static Badge](https://img.shields.io/badge/IT%20Support%20Professional-%234285F4?logo=Google&logoColor=white&labelColor=gray&link=https%3A%2F%2Fcoursera.org%2Fverify%2Fprofessional-cert%2FM6322HQFN4XU)
+
+
 <!--
 
 - 🌱 I’m currently learning ...
