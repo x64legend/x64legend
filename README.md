@@ -4,7 +4,7 @@
 #### 🌳 Confident in: ![Static Badge](https://img.shields.io/badge/Powershell-%230062AD) ![Static Badge](https://img.shields.io/badge/Azure-%23007FFF)
 #### 🌱 Currently learning: ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?logo=.net&labelColor=gray) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
-#### 🧙‍♂️ Certifications: ![Static Badge](https://img.shields.io/badge/IT%20Support%20Professional-%234285F4?logo=Google&logoColor=white&labelColor=gray&link=https%3A%2F%2Fcoursera.org%2Fverify%2Fprofessional-cert%2FM6322HQFN4XU) ![Static Badge](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-%23007FFF?style=flat&color=%23007FFF&link=https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fcredentials%2Fshare%2Fen-us%2FSydnieMBarnes-7141%2F34D011DB84CD213E%3FsharingId%3DF71AB6D45F0D5DF7)
+#### 🧙‍♂️ Certifications: ![Static Badge](https://img.shields.io/badge/IT%20Support%20Professional-%234285F4?logo=Google&logoColor=white&labelColor=gray&link=https%3A%2F%2Fcoursera.org%2Fverify%2Fprofessional-cert%2FM6322HQFN4XU) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 
 
