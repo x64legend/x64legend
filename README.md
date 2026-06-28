@@ -14,24 +14,12 @@
 
 ### 🌱 Currently learning
 
-| [![C#\|45](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) | [![Zsh\|49](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)       | [![AWS\|53](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [![Python\|67](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)                   | [![Bash\|59](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)         |
+| [![C#\|45](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) | [![Zsh\|49](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)       | [![AWS\|53](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) | [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#) |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [![Python\|67](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)                   | [![Bash\|59](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)         | [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)      |
 
 ### 🧙‍♂️ Certifications
 
 ![Static Badge|163](https://img.shields.io/badge/IT%20Support%20Professional-%234285F4?logo=Google&logoColor=white&labelColor=gray&link=https%3A%2F%2Fcoursera.org%2Fverify%2Fprofessional-cert%2FM6322HQFN4XU) 
 [![Microsoft Azure Fundamentals](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure%20Fundamentals-0089D6?logo=msazure&logoColor=white)](#)
 
-
-
-<!--
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
